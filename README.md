@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-address-selection-google-autocomplete](modules/address-selection-autocomplete)
 - [react-native-maps](modules/maps)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
