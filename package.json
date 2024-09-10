@@ -17,6 +17,7 @@
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/address-selection-autocomplete": "file:./modules/address-selection-autocomplete/",
     "@modules/maps": "file:./modules/maps/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@react-native-community/geolocation": "2.1.0",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
